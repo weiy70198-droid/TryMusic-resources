@@ -1,0 +1,84 @@
+{
+  "schema": 1,
+  "packs": [
+    {
+      "id": "moon",
+      "name": "月球",
+      "url": "https://github.com/weiy70198-droid/TryMusic-resources/releases/download/resources-0.5.2/moon-v1.zip",
+      "sha256": "c108206e51d9f099ce28f14f5b569b42dde60f6330db4d02a95bbc2fa8576892",
+      "size": 28570694
+    },
+    {
+      "id": "mercury",
+      "name": "水星",
+      "url": "https://github.com/weiy70198-droid/TryMusic-resources/releases/download/resources-0.5.2/mercury-v2.zip",
+      "sha256": "04bd8682b91fdec668410974bebb3c79712b63bda036fd685d973de099a2fd06",
+      "size": 42351621
+    },
+    {
+      "id": "venus",
+      "name": "金星",
+      "url": "https://github.com/weiy70198-droid/TryMusic-resources/releases/download/resources-0.5.2/venus-v2.zip",
+      "sha256": "c920988423d59319fc09978c6ad2a350b588a22adfc4d675f9f72eabdad50d40",
+      "size": 54415760
+    },
+    {
+      "id": "mars",
+      "name": "火星",
+      "url": "https://github.com/weiy70198-droid/TryMusic-resources/releases/download/resources-0.5.2/mars-v2.zip",
+      "sha256": "166d0441a79cc4fa471777191f5a1fa3563bf2ba4fb0c3ec0f1a695a70c362dd",
+      "size": 37560150
+    },
+    {
+      "id": "earth",
+      "name": "地球",
+      "url": "https://github.com/weiy70198-droid/TryMusic-resources/releases/download/resources-0.5.2/earth-v2.zip",
+      "sha256": "2f494b1b69a0079da56290d3921687342721f9d3ee9d9e161127ddf1b8a7f46f",
+      "size": 57834858
+    },
+    {
+      "id": "jupiter",
+      "name": "木星",
+      "url": "https://github.com/weiy70198-droid/TryMusic-resources/releases/download/resources-0.5.2/jupiter-v2.zip",
+      "sha256": "06d0a1b66b788b40c848493cc4cfe4368ad6513d8993eb7ada539b4f759d2fdb",
+      "size": 3081337
+    },
+    {
+      "id": "saturn",
+      "name": "土星",
+      "url": "https://github.com/weiy70198-droid/TryMusic-resources/releases/download/resources-0.5.2/saturn-v2.zip",
+      "sha256": "30b5edd67a17ada192109db47ead6a6fac663f39a58e90bb5842a25e09d778a8",
+      "size": 1081092
+    },
+    {
+      "id": "uranus",
+      "name": "天王星",
+      "url": "https://github.com/weiy70198-droid/TryMusic-resources/releases/download/resources-0.5.2/uranus-v2.zip",
+      "sha256": "c0e069e451bbaf120edf421f6caf3f125afb30040abd9bdda64eb4b42cfdd23b",
+      "size": 17200
+    },
+    {
+      "id": "neptune",
+      "name": "海王星",
+      "url": "https://github.com/weiy70198-droid/TryMusic-resources/releases/download/resources-0.5.2/neptune-v2.zip",
+      "sha256": "1d62666ab1499545c96d981d60a62dd765d1a0a4653cfb65065662cc9090d53d",
+      "size": 217720
+    },
+    {
+      "id": "pluto",
+      "name": "冥王星",
+      "url": "https://github.com/weiy70198-droid/TryMusic-resources/releases/download/resources-0.5.2/pluto-v2.zip",
+      "sha256": "98fede80e0526e2859802b5e3a6fac3c51222e45fceee0f75471ecb5809ec15d",
+      "size": 13110336
+    },
+    {
+      "id": "sun",
+      "name": "太阳",
+      "url": "https://github.com/weiy70198-droid/TryMusic-resources/releases/download/resources-0.5.2/sun-v2.zip",
+      "sha256": "c2f7b84ac1cf87023ba4a804957ddfc69a83d3c8dc67b6e88dc8327211a5b81c",
+      "size": 3692374
+    }
+  ],
+  "releaseVersionCode": 14,
+  "versionName": "0.5.2"
+}

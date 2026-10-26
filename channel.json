@@ -110,6 +110,16 @@
         "https://weiy70198-droid.github.io/TryMusic-resources/packs/sun-v2.zip",
         "https://raw.githubusercontent.com/weiy70198-droid/TryMusic-resources/main/packs/sun-v2.zip"
       ]
+    },
+    {
+      "id": "blackhole",
+      "name": "黑洞",
+      "url": "https://weiy70198-droid.github.io/TryMusic-resources/packs/blackhole-v1.zip",
+      "sha256": "623e7a1fdf5a4f5ad16f09b622b622bb5d2176fe81fc56cdb2a8babec12bcbe5",
+      "size": 1502,
+      "mirrors": [
+        "https://raw.githubusercontent.com/weiy70198-droid/TryMusic-resources/main/packs/blackhole-v1.zip"
+      ]
     }
   ],
   "releaseVersionCode": 14,

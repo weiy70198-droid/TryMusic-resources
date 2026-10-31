@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "packs": [
+    {
+      "id": "font-serif",
+      "name": "衬线字体",
+      "url": "https://github.com/weiy70198-droid/TryMusic-resources/releases/download/fonts-0.6.14/font-serif-v1.zip",
+      "sha256": "7e312eb6611893d856a0f3e4ad76fd8c7ac518274eeede7b1855d3110aadfa5b",
+      "size": 17252764,
+      "mirrors": [
+        "https://weiy70198-droid.github.io/TryMusic-resources/packs/font-serif-v1.zip",
+        "https://raw.githubusercontent.com/weiy70198-droid/TryMusic-resources/main/packs/font-serif-v1.zip"
+      ]
+    },
+    {
+      "id": "font-kai",
+      "name": "霞鹜文楷",
+      "url": "https://github.com/weiy70198-droid/TryMusic-resources/releases/download/fonts-0.6.14/font-kai-v1.zip",
+      "sha256": "488fae9bde889791a5268601858ed80f557ea64f4184135bd5af2b05063d0e5b",
+      "size": 25942720,
+      "mirrors": [
+        "https://weiy70198-droid.github.io/TryMusic-resources/packs/font-kai-v1.zip",
+        "https://raw.githubusercontent.com/weiy70198-droid/TryMusic-resources/main/packs/font-kai-v1.zip"
+      ]
+    },
+    {
+      "id": "font-gothic",
+      "name": "英文哥特",
+      "url": "https://github.com/weiy70198-droid/TryMusic-resources/releases/download/fonts-0.6.14/font-gothic-v1.zip",
+      "sha256": "c8f4af599c1ec6bf81087be464acce7189c77d9206ed7be9b82ab0f98d98a029",
+      "size": 104127,
+      "mirrors": [
+        "https://weiy70198-droid.github.io/TryMusic-resources/packs/font-gothic-v1.zip",
+        "https://raw.githubusercontent.com/weiy70198-droid/TryMusic-resources/main/packs/font-gothic-v1.zip"
+      ]
+    }
+  ]
+}
